@@ -1,6 +1,6 @@
 # RailwayPassengerTransportation
 
-![RailwayTicketSystem Logo](wwwroot/Images/logotype.png)
+![RailwayTicketSystem Logo](Railway Passenger Transportation/wwwroot/Images/logotype.png)
 
 RailwayTicketSystem — это веб-приложение для покупки билетов на поезда дальнего следования, разработанное на платформе ASP.NET Core с использованием C# и PostgreSQL. Система предоставляет пользователям удобный интерфейс для поиска рейсов, выбора мест и оформления билетов с отправкой на электронную почту.
 
@@ -102,7 +102,7 @@ cd RailwayTicketSystem
    ```
 
 ## Схема базы данных
-![Схема базы данных](assets/database_schema.png)
+![Схема базы данных](Railway Passenger Transportation/assets/database_schema.png)
 
 Система включает 26 взаимосвязанных таблиц с поддержкой внешних ключей, триггеров для автоматического обновления статусов, хранимых процедур, шифрования данных
 
@@ -121,15 +121,15 @@ cd RailwayTicketSystem
 - Администраторы — полный доступ ко всем функциям
 
 ## Скриншоты
-![Страница выбора направления](assets/direction_choice.png)
+![Страница выбора направления](Railway Passenger Transportation/assets/direction_choice.png)
 
-![Страница выбора рейса](assets/train_route_selection.png)
+![Страница выбора рейса](Railway Passenger Transportation/assets/train_route_selection.png)
 
-![Страница покупки билета](assets/Buying_a_ticket.png)
+![Страница покупки билета](Railway Passenger Transportation/assets/Buying_a_ticket.png)
 
-![email](assets/email.png)
+![email](Railway Passenger Transportation/assets/email.png)
 
-![Билет](assets/ticket.png)
+![Билет](Railway Passenger Transportation/assets/ticket.png)
 
 ## Контакты
 
